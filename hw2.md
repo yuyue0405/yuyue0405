@@ -22,7 +22,7 @@ graph TD
 
 
 
-```mermaid
+
 gantt
     title 專案甘特圖
     dateFormat  X
