@@ -1,4 +1,4 @@
-###PERT/CPM 圖
+```mermaid
 graph TD
     A[1. 研擬計畫] --> B[2. 任務分配]
     A --> C[3. 取得硬體]
@@ -11,6 +11,8 @@ graph TD
     G --> J[10. 使用者訓練]
     H --> J
     I --> K[11. 使用者測試]
+    
+    %% 標註關鍵路徑
     style A fill:#f96
     style B fill:#f96
     style D fill:#f96
@@ -18,8 +20,11 @@ graph TD
     style I fill:#f96
     style K fill:#f96
 
-    ###甘特圖
-    gantt
+### 甘特圖
+
+```markdown
+```mermaid
+gantt
     title 專案甘特圖
     dateFormat  X
     axisFormat  %j
