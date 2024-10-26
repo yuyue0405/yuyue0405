@@ -11,8 +11,6 @@ graph TD
     G --> J[10. 使用者訓練]
     H --> J
     I --> K[11. 使用者測試]
-    
-   
     style A fill:#f96
     style B fill:#f96
     style D fill:#f96
