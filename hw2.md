@@ -22,7 +22,6 @@ graph TD
 
 
 
-```markdown
 ```mermaid
 gantt
     title 專案甘特圖
